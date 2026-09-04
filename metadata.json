@@ -1,0 +1,6 @@
+{
+  "name": "Member Firm Voting Tool",
+  "description": "An open source interactive voting tool with member firm verification, ensuring single-firm representation and real-time live polling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
